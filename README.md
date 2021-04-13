@@ -14,7 +14,7 @@ This allows for the power spectrum to be computed, giving information on the fre
 # HVSR
 
 Using the Fourier transformed data, the horizontal-vertical spectral ratio is computed. 
-This HVSR gives an indication on the amplification of the surface waves caused by the topography and subsurface soils.
+This HVSR gives an indication of the amplification of the surface waves caused by the topography and subsurface soils.
 A high HVSR ratio means a large amount of amplification occured in the region, such as in a sedimentary basin.
 
 
